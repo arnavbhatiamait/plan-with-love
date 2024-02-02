@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/plan-with-love/static/css/main.1cd3a93b.css",
+    "main.js": "/plan-with-love/static/js/main.736d4afb.js",
+    "index.html": "/plan-with-love/index.html",
+    "main.1cd3a93b.css.map": "/plan-with-love/static/css/main.1cd3a93b.css.map",
+    "main.736d4afb.js.map": "/plan-with-love/static/js/main.736d4afb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1cd3a93b.css",
+    "static/js/main.736d4afb.js"
+  ]
+}
